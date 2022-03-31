@@ -1,0 +1,43 @@
+body {
+    background-color: blanchedalmond;
+}
+#header{
+    font-family: 'Merriweather', serif;
+    color: white;
+    background-color: darksalmon;
+    text-align: center;
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+}
+#link{
+    background-color: white;
+    padding-top: 15px;
+}
+.testo{
+    background-color: white;
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#social{
+    background-color: white;
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: red;
+}
+.img{
+    height: 30px;
+    width: 30px;
+}
+img{
+    height: 250px;
+    width: 300px;
+}

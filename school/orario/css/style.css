@@ -1,0 +1,88 @@
+.marco:hover{
+    background-image: url(../images/marco.jpeg);
+    color: red;
+    width: 1980px;
+    height: 1020px;
+}
+
+.square{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    text-align: center;
+    border: black 3px static;
+}
+
+body{
+    background-color: grey;
+}
+
+img{
+    width: 150px;
+    height: 100%;
+}
+
+table,tr,td{
+    border: red 3px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+table{
+    width: 80%; 
+}
+
+.sport{
+    background-color: red;
+}
+
+.informatica{
+    background-color: rgba(153, 255, 0, 0.548);
+}
+
+.italiano{
+    background-color: rgb(247, 0, 255);
+}
+
+.sistemi{
+    background-color: pink;
+}
+
+.matematica{
+    background-color: blue;
+}
+
+.telecomunicazioni{
+    background-color: cornflowerblue;
+}
+
+.storia{
+    background-color: palevioletred;
+}
+
+.religione{
+    background-color: rgb(136, 136, 255);
+}
+
+.inglese{
+    background-color: green;
+}
+
+.tippe{
+    background-color: rgb(204, 184, 1);
+}
+
+.complementi{
+    background-color: orange;
+}
+
+h3 {
+    padding: 10px;
+    margin: 10px;
+}
+
+a{
+    color: black;
+}

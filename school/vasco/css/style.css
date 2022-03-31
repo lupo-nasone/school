@@ -1,0 +1,71 @@
+div{
+    text-align: center;
+}
+
+
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background-color: red;
+}
+
+a:active{
+    color: yellow;
+}
+
+.menu{
+    background-color: black;
+    border: 3px red solid;
+    text-align: center;
+}
+
+.paragrafo{
+    border: 3px red solid;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.paragrafo::first-letter{
+    color: red;
+    font-size: 70px;
+}
+
+.concerti{
+    border: 3px black dashed;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.concerti2{
+    border: 3px black solid;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.concerti2 tr:nth-child(odd){
+    background-color: yellow;
+}
+
+.azzurrino:hover{
+    background-color: aqua;
+}
+.imgsfocate{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.imgsfocate img{
+    width: 24%;
+    opacity: 0.3
+}
+
+.imgsfocate img:hover{
+    border: 2px yellow solid;
+    opacity: 1;
+}
